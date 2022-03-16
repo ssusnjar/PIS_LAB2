@@ -7,7 +7,7 @@ namespace ConsoleApp34
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello orld!");
+            Console.WriteLine("KBT");
         }
     }
 }
