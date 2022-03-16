@@ -6,5 +6,6 @@ namespace ConsoleApp34
 {
     class Class2
     {
+        Console.WriteLine("Hello World!");
     }
 }
